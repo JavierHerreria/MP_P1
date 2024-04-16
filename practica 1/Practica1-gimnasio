@@ -203,7 +203,7 @@ void modificarDatos(t_regSocio socios[MAX_SOCIOS]){
     printf("===============================\n\n");
     printf("Datos actuales:");
     printf("---------------");
-    printf("Código: %s\n", socios[usuario_cambiar].codigo);
+    printf("Código: %s\n", socios[usuario_cambiar].codigo); 
     printf("Nombre: %s\n", socios[usuario_cambiar].nombre);
     printf("DNI: %s\n", socios[usuario_cambiar].dni);
     printf("Tipo socio: &s", tipoEscrito(socios, usuario_cambiar));
