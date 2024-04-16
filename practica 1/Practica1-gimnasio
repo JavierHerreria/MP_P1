@@ -228,4 +228,3 @@ char tipoEscrito(t_regSocio socios[MAX_SOCIOS], int i){
 
 }
 
-//Eduardo marica
